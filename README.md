@@ -2,12 +2,30 @@
 👨‍💻 Engineer | 🧠 Data Scientist | 🎮 Game Developer Enthusiast | 🔬 Affective Computing | 🏋️‍♀️ Health and Nutrition Enthusiast
 
 ## 🔧 Technologies & Tools  
-<img src="Assets/Python-logo-notext.svg.png" alt="Python" width="50">
-<img src="Assets/ISO_C++_Logo.svg.png" alt="C++" width="50">
-<img src="Assets/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png" alt="SQL" width="50">
-<img src="Assets/Jupyter_logo.svg.png" alt="Jupyter" width="50">
-<img src="Assets/Power-BI-Symbol.png" alt="Power BI" width="50">
-<img src="Assets/Octicons-mark-github.svg" alt="GitHub" width="50">
+<p align="center">
+  <img src="Assets/Python-logo-notext.svg.png" alt="Python" width="100">
+</p>
+
+<p align="center">
+  <img src="Assets/ISO_C++_Logo.svg.png" alt="C++" width="100">
+</p>
+
+<p align="center">
+  <img src="Assets/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png" alt="SQL" width="100">
+</p>
+
+<p align="center">
+  <img src="Assets/Jupyter_logo.svg.png" alt="Jupyter" width="100">
+</p>
+
+<p align="center">
+  <img src="Assets/Power-BI-Symbol.png" alt="Power BI" width="100">
+</p>
+
+<p align="center">
+  <img src="Assets/Octicons-mark-github.svg" alt="GitHub" width="100">
+</p>
+
 
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalilmosbah&show_icons=true&theme=radical)  
