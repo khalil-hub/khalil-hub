@@ -13,8 +13,12 @@
 </p>
 
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalilmosbah&show_icons=true&theme=radical)  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khalil-hub&show_icons=true&theme=radical&hide=stars&hide_border=true" alt="GitHub Stats" width="500">
+</p>
+
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalil%20Mosbah-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
