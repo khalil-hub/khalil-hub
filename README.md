@@ -26,11 +26,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalil-hub&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" width="750">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalil-hub&theme=radical&hide_border=true" width="750">
-</p>
-
-
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalil%20Mosbah-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
 [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle)  
