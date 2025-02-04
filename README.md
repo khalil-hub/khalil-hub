@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalil-hub&theme=dark&hide_border=true" alt="GitHub Streak" width="500">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalil-hub&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" width="750">
 </p>
 
 <p align="center">
