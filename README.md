@@ -19,8 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=khalil-hub&show_icons=true&theme=radical&hide=stars&hide_border=true" alt="GitHub Stats" width="500">
 </p>
 
-## 🚀 Most Used Languages
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalil-hub&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="500">
 </p>
