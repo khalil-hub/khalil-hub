@@ -1,4 +1,4 @@
-# 👋 Hi, this is Karu chan!  
+## 👋 Hi, this is Karu chan!  
 👨‍💻 Engineer | 🧠 Data Scientist | 🎮 Game Developer Enthusiast| 🔬 Affective Computing | 🏋️‍♀️ Health and Nutrition Enthusiast
 
 ## 🔧 Technologies & Tools  
