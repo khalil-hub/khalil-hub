@@ -23,6 +23,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalil-hub&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="500">
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalil-hub&theme=radical&hide_border=true" alt="GitHub Streak" width="500">
+</p>
+
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalil%20Mosbah-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
