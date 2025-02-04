@@ -29,6 +29,24 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalil-hub&theme=radical&hide_border=true" alt="GitHub Streak" width="500">
 </p>
 
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khalil-hub&show_icons=true&theme=radical&hide=stars&hide_border=true" width="500">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalil-hub&layout=compact&theme=radical&hide_border=true" width="500">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalil-hub&theme=radical&hide_border=true" width="500">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalil-hub&theme=radical&hide_border=true" width="750">
+</p>
+
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalil%20Mosbah-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
