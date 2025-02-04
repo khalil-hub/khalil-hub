@@ -3,27 +3,12 @@
 
 ## 🔧 Technologies & Tools  
 <p align="center">
-  <img src="Assets/Python-logo-notext.svg.png" alt="Python" width="100">
-</p>
-
-<p align="center">
-  <img src="Assets/ISO_C++_Logo.svg.png" alt="C++" width="100">
-</p>
-
-<p align="center">
-  <img src="Assets/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png" alt="SQL" width="100">
-</p>
-
-<p align="center">
-  <img src="Assets/Jupyter_logo.svg.png" alt="Jupyter" width="100">
-</p>
-
-<p align="center">
-  <img src="Assets/Power-BI-Symbol.png" alt="Power BI" width="100">
-</p>
-
-<p align="center">
-  <img src="Assets/Octicons-mark-github.svg" alt="GitHub" width="100">
+  <img src="Assets/Python-logo-notext.svg.png" alt="Python" width="80">
+  <img src="Assets/ISO_C++_Logo.svg.png" alt="C++" width="80">
+  <img src="Assets/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png" alt="SQL" width="80">
+  <img src="Assets/Jupyter_logo.svg.png" alt="Jupyter" width="80">
+  <img src="Assets/Power-BI-Symbol.png" alt="Power BI" width="80">
+  <img src="Assets/Octicons-mark-github.svg" alt="GitHub" width="80">
 </p>
 
 
