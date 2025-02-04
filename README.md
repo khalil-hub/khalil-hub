@@ -26,6 +26,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalil-hub&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" width="750">
 </p>
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalil%20Mosbah-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle)  
+## 🌐 Connect With Me
+
+<p align="Left">
+  <a href="https://www.linkedin.com/in/khalil-mosbah-3174a41a1/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/karu_in_japan/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:khalil.mosbeh@yahoo.fr">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="50" />
+  </a>
+</p>
