@@ -2,7 +2,7 @@
 👨‍💻 Engineer | 🧠 Data Scientist | 🎮 Game Developer Enthusiast | 🔬 Affective Computing | 🏋️‍♀️ Health and Nutrition Enthusiast
 
 ## 🔧 Technologies & Tools  
-<p align="center">
+<p align="left">
   <img src="Assets/Python-logo-notext.svg.png" alt="Python" width="80">
   <img src="Assets/ISO_C++_Logo.svg.png" alt="C++" width="80">
   <img src="Assets/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png" alt="SQL" width="80">
