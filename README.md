@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, this is Karu chan!  
+👨‍💻 Engineer | 🧠 Data Scientist | 🎮 Game Developer Enthusiast| 🔬 Affective Computing | 🏋️‍♀️ Health and Nutrition Enthusiast
 
-<!--
-**khalil-hub/khalil-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalilmosbah&show_icons=true&theme=radical)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalil%20Mosbah-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle)  
