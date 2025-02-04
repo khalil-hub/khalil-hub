@@ -33,6 +33,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalil-hub&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" width="750">
 </p>
 
+## 🔥 Featured Projects  
+
+🚀 **[Emotion-Driven Game Level Design](https://github.com/khalil-hub/emotion-game)**  
+🎮 A **2D platformer** that adapts level design based on **player emotions and AI analysis**.
+
+📊 **[Affective Computing in Games](https://github.com/khalil-hub/affective-gaming-research)**  
+🧠 Analyzing **facial expressions and player frustration** using **machine learning**.
+
+📝 **[YouTube Data Science Analysis](https://github.com/khalil-hub/youtube-data-analysis)**  
+📉 A data visualization and analysis project on **Japanese folklore and urban legends on YouTube**.
+
 ## 🌐 Connect With Me
 
 <p align="Left">
