@@ -1,6 +1,7 @@
 # 👋 Hi, this is Karu chan!  
 👨‍💻 Engineer | 🧠 Data Scientist | 🎮 Game Developer Enthusiast | 🔬 Affective Computing | 🏋️‍♀️ Health and Nutrition Enthusiast
- 📍 Based in Japan 🇯🇵  
+
+📍 Based in Japan 🇯🇵  
 
 🔹 Passionate about **Data Science, AI, and Game Development**  
 🔹 Currently working on **Emotion-driven Level Design in Games**  
