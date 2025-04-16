@@ -4,8 +4,8 @@
 📍 Based in Japan 🇯🇵  
 
 🔹 Passionate about **Data Science, AI, and Game Development**  
-🔹 Currently working on **Emotion-driven Level Design in Games**  
-🔹 Interested in **Affective Computing, Human-Machine Interaction, and Fitness Tech**  
+🔹 Currently working on **AD and LLMs**  
+🔹 Interested in **AD, Human-Machine Interaction, and Fitness Tech**  
 
 💡 **Fun fact:** I love exploring Japanese culture, myths, and folklore! 🎌👹  
 
