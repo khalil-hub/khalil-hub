@@ -8,6 +8,11 @@
 🔹 Interested in **AD, Human-Machine Interaction, and Fitness Tech**  
 
 💡 **Fun fact:** I love exploring Japanese culture, myths, and folklore! 🎌👹  
+## 🧑‍💻 Comapnies & Missions  
+<img src="https://global.toyota/pages/news/images/2023/04/11/0800/rendition/20230411_02_01_W610_H407.png"
+     alt="Woven by Toyota logo"
+     width="80"
+     loading="lazy">
 
 ## 🔧 Technologies & Tools  
 
