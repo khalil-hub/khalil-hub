@@ -13,6 +13,10 @@
      alt="Woven by Toyota logo"
      width="80"
      loading="lazy">
+<img src="https://www.vinci-energies.nl/app/uploads/sites/102/2021/09/logo-VINCI-1-1.png"
+     alt="VINCI Energies logo"
+     width="80"
+     loading="lazy">
 
 ## 🔧 Technologies & Tools  
 
